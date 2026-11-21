@@ -1,0 +1,5 @@
+frame_id,source,phenomenon,affected_field,effect_on_label
+D03,real_IR,Đốm phản xạ và khó thấy rõ vùng mắt trên NIR,face.eye_left,Chọn unknown thay vì đoán open theo 4.4-1
+D04,real_IR,Thao tác áp tai và cách dùng trông giống điện thoại nhưng không rõ cạnh góc hay màn hình,phone,Giữ box vì thao tác và cách dùng; lưu ý luật 4.7 vẫn cần thấy một phần hình dạng
+S01_rgb,IR_sim,Vật trong ghế không rõ hình dạng trên ảnh dựng,object.type,Chọn other thay vì đoán bag hoặc cup theo 4.4-1
+S08_ir,IR_sim,Hai loại ghế trẻ em dễ nhầm trên ảnh dựng nhưng thấy quai nôi,infant_seat,Chọn infant_seat thay vì child_seat theo 4.2
