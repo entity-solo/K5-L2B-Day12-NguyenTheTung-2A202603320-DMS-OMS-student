@@ -1,0 +1,72 @@
+﻿image,label,field,issue,mine,peer,verdict,guideline_rule,action
+D01.png,face13,right_eye_outer.occluded,khác cờ,1,0,mine,4.4-1 / 4.5 (cờ điểm mặt),Giữ nguyên giá trị của mình; peer đổi theo mình
+D02.png,face13,left_eye_inner.occluded,khác cờ,0,1,mine,4.4-1 / 4.5 (cờ điểm mặt),Giữ nguyên giá trị của mình; peer đổi theo mình
+D02.png,face13,left_eye_inner.outside,khác cờ,1,0,mine,4.4-1 / 4.5 (cờ điểm mặt),Giữ nguyên giá trị của mình; peer đổi theo mình
+D02.png,face13,mouth_left.occluded,khác cờ,0,1,mine,4.4-1 / 4.5 (cờ điểm mặt),Giữ nguyên giá trị của mình; peer đổi theo mình
+D02.png,face13,mouth_left.outside,khác cờ,1,0,mine,4.4-1 / 4.5 (cờ điểm mặt),Giữ nguyên giá trị của mình; peer đổi theo mình
+D03.png,face,eye_left,khác giá trị (IoU=0.68),unknown,open,mine,4.4-1 (không thấy thì unknown),Giữ nguyên giá trị của mình; peer đổi theo mình
+D03.png,face,eye_right,khác giá trị (IoU=0.68),unknown,open,mine,4.4-1 (không thấy thì unknown),Giữ nguyên giá trị của mình; peer đổi theo mình
+D03.png,hand,box,chỉ có ở mine (hoặc IoU thấp),IoU=0.18,,mine,Bài mình làm chuẩn (đã tự rà soát theo GUIDE.md),Giữ nguyên box của mình; peer thêm box tương ứng
+D03.png,hand,box,chỉ có ở peer (hoặc IoU thấp),,,mine,Bài mình làm chuẩn (đã tự rà soát theo GUIDE.md),Peer xóa box thừa; mình giữ nguyên
+D03.png,face13,left_eye_outer.occluded,khác cờ,1,0,mine,4.4-1 / 4.5 (cờ điểm mặt),Giữ nguyên giá trị của mình; peer đổi theo mình
+D03.png,face13,left_eye_inner.occluded,khác cờ,1,0,mine,4.4-1 / 4.5 (cờ điểm mặt),Giữ nguyên giá trị của mình; peer đổi theo mình
+D03.png,face13,left_eye_upper.occluded,khác cờ,1,0,mine,4.4-1 / 4.5 (cờ điểm mặt),Giữ nguyên giá trị của mình; peer đổi theo mình
+D03.png,face13,left_eye_lower.occluded,khác cờ,1,0,mine,4.4-1 / 4.5 (cờ điểm mặt),Giữ nguyên giá trị của mình; peer đổi theo mình
+D03.png,face13,right_eye_outer.occluded,khác cờ,1,0,mine,4.4-1 / 4.5 (cờ điểm mặt),Giữ nguyên giá trị của mình; peer đổi theo mình
+D03.png,face13,right_eye_inner.occluded,khác cờ,1,0,mine,4.4-1 / 4.5 (cờ điểm mặt),Giữ nguyên giá trị của mình; peer đổi theo mình
+D03.png,face13,right_eye_upper.occluded,khác cờ,1,0,mine,4.4-1 / 4.5 (cờ điểm mặt),Giữ nguyên giá trị của mình; peer đổi theo mình
+D03.png,face13,right_eye_lower.occluded,khác cờ,1,0,mine,4.4-1 / 4.5 (cờ điểm mặt),Giữ nguyên giá trị của mình; peer đổi theo mình
+D03.png,face13,mouth_left.occluded,khác cờ,1,0,mine,4.4-1 / 4.5 (cờ điểm mặt),Giữ nguyên giá trị của mình; peer đổi theo mình
+D04.png,hand,on_wheel,khác giá trị (IoU=0.93),no,unknown,mine,Bài mình làm chuẩn (đã tự rà soát theo GUIDE.md),Giữ nguyên giá trị của mình; peer đổi theo mình
+D04.png,hand,on_wheel,khác giá trị (IoU=0.94),no,unknown,mine,Bài mình làm chuẩn (đã tự rà soát theo GUIDE.md),Giữ nguyên giá trị của mình; peer đổi theo mình
+D04.png,face,eye_left,khác giá trị (IoU=0.89),unknown,open,mine,4.4-1 (không thấy thì unknown),Giữ nguyên giá trị của mình; peer đổi theo mình
+D04.png,face,eye_right,khác giá trị (IoU=0.89),unknown,open,mine,4.4-1 (không thấy thì unknown),Giữ nguyên giá trị của mình; peer đổi theo mình
+D04.png,face,gaze_zone,khác giá trị (IoU=0.89),center,mirror_l,mine,4.4-1 / 4.5 (hướng nhìn),Giữ nguyên giá trị của mình; peer đổi theo mình
+D04.png,phone,box,chỉ có ở mine (hoặc IoU thấp),IoU=0.32,,mine,Bài mình làm chuẩn (đã tự rà soát theo GUIDE.md),Giữ nguyên box của mình; peer thêm box tương ứng
+D04.png,phone,box,chỉ có ở peer (hoặc IoU thấp),,,mine,Bài mình làm chuẩn (đã tự rà soát theo GUIDE.md),Peer xóa box thừa; mình giữ nguyên
+D04.png,face13,left_eye_outer.occluded,khác cờ,1,0,mine,4.4-1 / 4.5 (cờ điểm mặt),Giữ nguyên giá trị của mình; peer đổi theo mình
+D04.png,face13,left_eye_inner.occluded,khác cờ,1,0,mine,4.4-1 / 4.5 (cờ điểm mặt),Giữ nguyên giá trị của mình; peer đổi theo mình
+D04.png,face13,left_eye_upper.occluded,khác cờ,1,0,mine,4.4-1 / 4.5 (cờ điểm mặt),Giữ nguyên giá trị của mình; peer đổi theo mình
+D04.png,face13,left_eye_lower.occluded,khác cờ,1,0,mine,4.4-1 / 4.5 (cờ điểm mặt),Giữ nguyên giá trị của mình; peer đổi theo mình
+D04.png,face13,right_eye_outer.occluded,khác cờ,1,0,mine,4.4-1 / 4.5 (cờ điểm mặt),Giữ nguyên giá trị của mình; peer đổi theo mình
+D04.png,face13,right_eye_inner.occluded,khác cờ,1,0,mine,4.4-1 / 4.5 (cờ điểm mặt),Giữ nguyên giá trị của mình; peer đổi theo mình
+D04.png,face13,right_eye_upper.occluded,khác cờ,1,0,mine,4.4-1 / 4.5 (cờ điểm mặt),Giữ nguyên giá trị của mình; peer đổi theo mình
+D04.png,face13,right_eye_lower.occluded,khác cờ,1,0,mine,4.4-1 / 4.5 (cờ điểm mặt),Giữ nguyên giá trị của mình; peer đổi theo mình
+D05.png,face13,mouth_right.occluded,khác cờ,0,1,mine,4.4-1 / 4.5 (cờ điểm mặt),Giữ nguyên giá trị của mình; peer đổi theo mình
+D05.png,face13,mouth_right.outside,khác cờ,1,0,mine,4.4-1 / 4.5 (cờ điểm mặt),Giữ nguyên giá trị của mình; peer đổi theo mình
+S01_ir.png,face,eye_left,khác giá trị (IoU=0.95),open,unknown,mine,4.4-1 (không thấy thì unknown),Giữ nguyên giá trị của mình; peer đổi theo mình
+S01_ir.png,face,eye_right,khác giá trị (IoU=0.95),open,unknown,mine,4.4-1 (không thấy thì unknown),Giữ nguyên giá trị của mình; peer đổi theo mình
+S01_ir.png,face,gaze_zone,khác giá trị (IoU=0.95),center,other,mine,4.4-1 / 4.5 (hướng nhìn),Giữ nguyên giá trị của mình; peer đổi theo mình
+S01_ir.png,face,glasses,khác giá trị (IoU=0.95),none,unknown,mine,4.4-1 (không thấy thì unknown),Giữ nguyên giá trị của mình; peer đổi theo mình
+S01_rgb.png,frame_meta,modality,khác giá trị,rgb,ir,mine,4.3-1,Giữ nguyên giá trị của mình; peer đổi theo mình
+S01_rgb.png,face,eye_left,khác giá trị (IoU=0.92),open,unknown,mine,4.4-1 (không thấy thì unknown),Giữ nguyên giá trị của mình; peer đổi theo mình
+S01_rgb.png,face,eye_right,khác giá trị (IoU=0.92),open,unknown,mine,4.4-1 (không thấy thì unknown),Giữ nguyên giá trị của mình; peer đổi theo mình
+S01_rgb.png,face,gaze_zone,khác giá trị (IoU=0.92),center,other,mine,4.4-1 / 4.5 (hướng nhìn),Giữ nguyên giá trị của mình; peer đổi theo mình
+S01_rgb.png,face,glasses,khác giá trị (IoU=0.92),none,unknown,mine,4.4-1 (không thấy thì unknown),Giữ nguyên giá trị của mình; peer đổi theo mình
+S01_rgb.png,infant_seat,box,chỉ có ở mine (hoặc IoU thấp),IoU=0.00,,mine,Bài mình làm chuẩn (đã tự rà soát theo GUIDE.md),Giữ nguyên box của mình; peer thêm box tương ứng
+S01_rgb.png,child_seat,box,chỉ có ở peer (hoặc IoU thấp),,,mine,Bài mình làm chuẩn (đã tự rà soát theo GUIDE.md),Peer xóa box thừa; mình giữ nguyên
+S02_rgb.png,frame_meta,modality,khác giá trị,rgb,ir,mine,4.3-1,Giữ nguyên giá trị của mình; peer đổi theo mình
+S03_ir.png,child_seat,occupied,khác giá trị (IoU=0.97),yes,unknown,mine,Thông báo của thầy: child_seat.occupied=yes hợp lệ,Giữ nguyên giá trị của mình; peer đổi theo mình
+S03_rgb.png,frame_meta,modality,khác giá trị,rgb,ir,mine,4.3-1,Giữ nguyên giá trị của mình; peer đổi theo mình
+S03_rgb.png,child_seat,occupied,khác giá trị (IoU=0.99),yes,unknown,mine,Thông báo của thầy: child_seat.occupied=yes hợp lệ,Giữ nguyên giá trị của mình; peer đổi theo mình
+S04_ir.png,child_seat,occupied,khác giá trị (IoU=0.99),yes,unknown,mine,Thông báo của thầy: child_seat.occupied=yes hợp lệ,Giữ nguyên giá trị của mình; peer đổi theo mình
+S04_rgb.png,frame_meta,modality,khác giá trị,rgb,ir,mine,4.3-1,Giữ nguyên giá trị của mình; peer đổi theo mình
+S04_rgb.png,child_seat,occupied,khác giá trị (IoU=0.98),yes,unknown,mine,Thông báo của thầy: child_seat.occupied=yes hợp lệ,Giữ nguyên giá trị của mình; peer đổi theo mình
+S05_ir.png,face,eye_right,khác giá trị (IoU=0.79),open,unknown,mine,4.4-1 (không thấy thì unknown),Giữ nguyên giá trị của mình; peer đổi theo mình
+S05_ir.png,face,glasses,khác giá trị (IoU=0.79),none,unknown,mine,4.4-1 (không thấy thì unknown),Giữ nguyên giá trị của mình; peer đổi theo mình
+S05_rgb.png,frame_meta,modality,khác giá trị,rgb,ir,mine,4.3-1,Giữ nguyên giá trị của mình; peer đổi theo mình
+S05_rgb.png,face,eye_right,khác giá trị (IoU=0.86),open,unknown,mine,4.4-1 (không thấy thì unknown),Giữ nguyên giá trị của mình; peer đổi theo mình
+S05_rgb.png,face,glasses,khác giá trị (IoU=0.86),none,unknown,mine,4.4-1 (không thấy thì unknown),Giữ nguyên giá trị của mình; peer đổi theo mình
+S06_rgb.png,frame_meta,modality,khác giá trị,rgb,ir,mine,4.3-1,Giữ nguyên giá trị của mình; peer đổi theo mình
+S07_ir.png,child_seat,occupied,khác giá trị (IoU=0.99),yes,unknown,mine,Thông báo của thầy: child_seat.occupied=yes hợp lệ,Giữ nguyên giá trị của mình; peer đổi theo mình
+S07_rgb.png,frame_meta,modality,khác giá trị,rgb,ir,mine,4.3-1,Giữ nguyên giá trị của mình; peer đổi theo mình
+S07_rgb.png,child_seat,occupied,khác giá trị (IoU=0.94),yes,unknown,mine,Thông báo của thầy: child_seat.occupied=yes hợp lệ,Giữ nguyên giá trị của mình; peer đổi theo mình
+S08_ir.png,face,eye_left,khác giá trị (IoU=0.94),open,unknown,mine,4.4-1 (không thấy thì unknown),Giữ nguyên giá trị của mình; peer đổi theo mình
+S08_ir.png,face,eye_right,khác giá trị (IoU=0.94),open,unknown,mine,4.4-1 (không thấy thì unknown),Giữ nguyên giá trị của mình; peer đổi theo mình
+S08_ir.png,face,gaze_zone,khác giá trị (IoU=0.94),center,other,mine,4.4-1 / 4.5 (hướng nhìn),Giữ nguyên giá trị của mình; peer đổi theo mình
+S08_ir.png,face,glasses,khác giá trị (IoU=0.94),none,unknown,mine,4.4-1 (không thấy thì unknown),Giữ nguyên giá trị của mình; peer đổi theo mình
+S08_rgb.png,frame_meta,modality,khác giá trị,rgb,ir,mine,4.3-1,Giữ nguyên giá trị của mình; peer đổi theo mình
+S08_rgb.png,face,eye_left,khác giá trị (IoU=0.96),open,unknown,mine,4.4-1 (không thấy thì unknown),Giữ nguyên giá trị của mình; peer đổi theo mình
+S08_rgb.png,face,eye_right,khác giá trị (IoU=0.96),open,unknown,mine,4.4-1 (không thấy thì unknown),Giữ nguyên giá trị của mình; peer đổi theo mình
+S08_rgb.png,face,gaze_zone,khác giá trị (IoU=0.96),center,other,mine,4.4-1 / 4.5 (hướng nhìn),Giữ nguyên giá trị của mình; peer đổi theo mình
+S08_rgb.png,face,glasses,khác giá trị (IoU=0.96),none,unknown,mine,4.4-1 (không thấy thì unknown),Giữ nguyên giá trị của mình; peer đổi theo mình
